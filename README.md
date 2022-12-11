@@ -1,2 +1,2 @@
-[Watch Movie🤡🧐](https://movie-app-unicorn-a4aa5b.netlify.app/)
+[Movie App](https://harunkesmegulu.github.io/movie_app/)
 [![movieapp](gif.gif)](https://movieappomercinar00.netlify.app/)
